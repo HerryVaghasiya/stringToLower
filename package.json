@@ -1,0 +1,28 @@
+{
+  "name": "stringtolower",
+  "version": "1.0.0",
+  "description": "Convert String in Lowercase",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerryVaghasiya/stringToLower.git"
+  },
+  "keywords": [
+    "Convert in Lowercase"
+  ],
+  "author": "Herry Vaghasiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HerryVaghasiya/stringToLower/issues"
+  },
+  "homepage": "https://github.com/HerryVaghasiya/stringToLower#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "files": ["lib/**/*"]
+}
