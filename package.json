@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Convert String in Lowercase",
   "main": "lib/index.js",
-  "types": "index.d.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
